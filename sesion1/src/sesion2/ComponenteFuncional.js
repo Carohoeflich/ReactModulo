@@ -2,7 +2,9 @@ import React from "react";
 
 function ComponenteFuncional(props){
     return (
-        <div>ComponenteFuncional</div>
+        <div>
+            {props.name}
+        </div>
     )
 }
 

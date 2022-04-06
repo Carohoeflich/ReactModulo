@@ -1,0 +1,23 @@
+.Batman{ 
+    display:flex;
+    width: 30%;
+    height: 60rem;
+    margin: 4rem;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255); 
+    
+
+}
+
+.Superman{ 
+    display:flex;
+    width: 30%;
+    height: 60rem;
+    margin: 4rem;
+    flex-direction: column;
+    background-color: rgb(8, 113, 173);
+    color: rgb(24, 23, 23); 
+    
+
+}
